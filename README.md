@@ -1,2 +1,2 @@
-# custom-lsubscriber-list
+# custom-subscriber-list
 snappy list plugin
